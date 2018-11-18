@@ -1,3 +1,5 @@
+A simple utility for downloading all your Packt Library
+
 # Configuration
 - `npm install`
 - cat headers.json.default > headers.json
